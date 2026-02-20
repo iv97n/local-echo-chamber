@@ -1,0 +1,3 @@
+[submodule "echo-chamber"]
+	path = echo-chamber
+	url = git@github.com:NeuralTrust/echo-chamber.git
